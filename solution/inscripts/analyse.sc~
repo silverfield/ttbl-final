@@ -1,0 +1,39 @@
+#TT
+
+load tt data/real/tt_air01.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_cpsk.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_gb-coach.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_gb-tr.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_montr.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_sncf.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_sncf-ter.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_sncf-inter.tt
+show tt last
+an tt var last
+rm tt last
+load tt data/real/tt_zsr.tt
+show tt last
+an tt var last
+rm tt last
+quit

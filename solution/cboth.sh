@@ -1,0 +1,3 @@
+./ccomp.sh
+./crun.sh "$@"
+

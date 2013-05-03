@@ -1,0 +1,1 @@
+./commander/bin/commander $@
