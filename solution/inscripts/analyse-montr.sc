@@ -1,3 +1,5 @@
+#Analyses various properties (height, time range, overtaking) of the timetable montr and its graph forms (OC radius, highway dimension)
+
 load tt data/real/tt_montr.tt
 show tt last
 an tt var last
